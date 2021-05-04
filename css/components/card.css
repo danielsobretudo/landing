@@ -1,0 +1,19 @@
+.body-container {
+  /*width: 800px;*/
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-img {
+  height: 275px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 0 12px rgba(100,100,100,0.5)
+}
+
+.card-txt {
+  color: #808080;
+  text-align: center;
+}

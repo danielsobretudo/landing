@@ -1,0 +1,10 @@
+.footer {
+  height: 160px;
+  background-color: rgb(34, 138, 138);
+  color: #EEE;
+  text-align: right;
+}
+
+.footer p {
+  padding: 32px;
+}

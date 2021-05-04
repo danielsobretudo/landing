@@ -1,0 +1,10 @@
+.hero-container a {
+  color: #EEE;
+  background-color: rgb(34,138,138);
+  padding: 8px 16px;
+  border-radius: 24px;
+}
+
+.hero-container a:hover {
+  background-color: rgb(34,138,138,0.8);
+}
