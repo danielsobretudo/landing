@@ -1,6 +1,6 @@
 .hero {
   height: 600px;
-  background-image: linear-gradient(rgba(0, 0, 255, 0.1), rgba(0, 200, 0, 0.1)), url("../../../landing/images/h-wave.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 255, 0.1), rgba(0, 200, 0, 0.1)), url("../../images/h-wave.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
